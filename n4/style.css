@@ -1,0 +1,106 @@
+body{
+    font-family: monospace;
+    background-color: purple;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position:fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+    background-color: #111112;
+    display:flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+ul img{
+    height: 50px;
+
+}
+li a{
+    color: white;
+    display: block;
+    padding: 16px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.menu{
+    display:flex;
+}
+h1{
+    margin-top: 100px;
+}
+
+li a:hover{
+    background-color: rgba(204,212,255,.05);
+    color: rgba(255,255,255,1);
+    border-radius: 10px;
+}
+.active{
+    background-color: rgba(204,212,255,.05);
+    color: rgba(255,255,255,1);
+    border-radius: 10px;
+}
+p{
+    color: white;
+}
+.main1{
+    margin-top: 100px !important;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.size{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+} 
+.yasuo img{
+    height: 600px;
+    width: 400px;
+}
+
+.text p{
+    font-size: 20px;
+    color:white;
+    padding: 20px;
+    line-height: 30px;
+}
+.text2 p{
+    font-size: 20px;
+    color:white;
+    padding: 20px;
+    line-height: 30px;
+}
+.A{
+    background-color: rgb(49, 206, 127);
+}
+.AB{
+    background-color:rgb(49, 206, 127);
+}
+.ABC{
+    background-color:rgb(49, 206, 127);
+}
+.ABCD{
+    background-color:rgb(49, 206, 127);
+}
+.ABCDE{
+    background-color: rgb(49, 206, 127);
+}
+.ABCDEF{
+    background-color: rgb(49, 206, 127);
+}
+.ABCDEFG{
+    background-color:rgb(49, 206, 127);
+}
+.ABCDEFGH{
+    background-color:rgb(49, 206, 127);
+}
